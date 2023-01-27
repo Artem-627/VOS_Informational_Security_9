@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Artem Chernyshev <artem@a627.ru>",
+  "license": "ISC"
+}
