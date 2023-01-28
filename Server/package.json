@@ -7,5 +7,9 @@
     "test": "test"
   },
   "author": "Artem Chernyshev <artem@a627.ru>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-rsa": "^1.1.1"
+  }
 }

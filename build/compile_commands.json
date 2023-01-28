@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/artem627/Документы/IS_Project/source/VOS_Informational_Security_9/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Client.dir/Client.cpp.o -c /home/artem627/Документы/IS_Project/source/VOS_Informational_Security_9/Client/Client.cpp",
+  "file": "/home/artem627/Документы/IS_Project/source/VOS_Informational_Security_9/Client/Client.cpp"
+}
+]

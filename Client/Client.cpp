@@ -13,6 +13,7 @@ int main (){
     std::cout << "Введите порт сервера: ";
     std::cin >> PORT;
 
-    std::cout << "http://" << IP << ":" << PORT << '\n';    
-
+    std::cout << "[Подключение к серверу " << "http://" << IP << ":" << PORT << "...]" << '\n';
+    
+    
 }
